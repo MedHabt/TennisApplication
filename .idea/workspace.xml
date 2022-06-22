@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2ff12a9-a75f-4905-8d2c-6ab6294e65e1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AqvxZNibNoTuJIIPyCFo7caf2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/ehabti/Downloads/TennisApplication",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="entities" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="entities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entities" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TennisApplication">
+    <configuration name="TennisApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tennis.TennisApplication.TennisApplication" />
+      <module name="TennisApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tennis.TennisApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcheTennisTest.setDone_allSet_and_getTheWinner_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TennisApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities" />
+      <option name="MAIN_CLASS_NAME" value="entities.MatcheTennisTest" />
+      <option name="METHOD_NAME" value="setDone_allSet_and_getTheWinner_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcheTennisTest.verifierGagnant_j2won" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TennisApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities" />
+      <option name="MAIN_CLASS_NAME" value="entities.MatcheTennisTest" />
+      <option name="METHOD_NAME" value="verifierGagnant_j2won" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcheTennisTest.verifierGagnant_j2won_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TennisApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entities" />
+      <option name="MAIN_CLASS_NAME" value="entities.MatcheTennisTest" />
+      <option name="METHOD_NAME" value="verifierGagnant_j2won_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisApplicationTests.getScoreAndPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TennisApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tennis.TennisApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Tennis.TennisApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.Tennis.TennisApplication.TennisApplicationTests" />
+      <option name="METHOD_NAME" value="getScoreAndPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TennisApplication" />
+        <item itemvalue="JUnit.TennisApplicationTests.getScoreAndPlayer" />
+        <item itemvalue="JUnit.MatcheTennisTest.verifierGagnant_j2won_false" />
+        <item itemvalue="JUnit.MatcheTennisTest.setDone_allSet_and_getTheWinner_false" />
+        <item itemvalue="JUnit.MatcheTennisTest.verifierGagnant_j2won" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ff12a9-a75f-4905-8d2c-6ab6294e65e1" name="Changes" comment="" />
+      <created>1655750178947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655750178947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
